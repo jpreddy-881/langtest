@@ -63,7 +63,7 @@ Take a look at our official page for user documentation and examples: [langtest.
 ## Benchmark Datasets
 
 LangTest comes with different datasets to test your models, covering a wide range of use cases and evaluation scenarios. You can explore all the benchmark datasets available [here](https://langtest.org/docs/pages/benchmarks/benchmark), each meticulously curated to challenge and enhance your language models. 
-Whether you're focused on Question-Answering, text summarization etc, LangTest ensures you have the right data to push your models to their limits and achieve peak performance in diverse linguistic tasks.
+Whether you're focused on Question-Answering, text summarization etc, LangTest ensures you have the right data to push your models to their limits and achieve peak performance in diverse linguistic tasks.....
 
 ## How To Use
 
